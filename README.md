@@ -13,6 +13,5 @@
 
 ## How to Run
 **Clone the repository**
-'''bash
 git clone https://github.com/Srivijiyalakshmi/ShelfTrack.git
 Ensure SQLite database is in the same folder
