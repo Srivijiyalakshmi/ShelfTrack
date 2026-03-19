@@ -1,18 +1,18 @@
-ShelfTrack - Bookstore Inventory Management System
+**ShelfTrack - Bookstore Inventory Management System**
 
-Description: Developed a modular inventory management system using Python and SQLite to manage book and author data.
+**Description:** **SlefTrack** is a Bookstore Inventory Management System where users can manage books and authors through a relational database. It is designed with secure coding practices and modular programming for maintainability.
 
-Features:
-Designed relational database with primary and foreign key constraints
-Implemented full CRUD functionality (Create, Read, Update, Delete)
-Used INNER JOIN to retrieve relational data across tables
-Applied input validation and exception handling to prevent SQL injection
-Followed best practices in modular programming and database design
+**Features:**
+- Manage books and authors with a relational database
+- Full **CRUD operations** (Create, Read, Update, Delete)
+- **Input validation** and **exception handling** to prevent errors and SQL injection
+- Retrieve relational data using **INNER JOIN** queries
+- Modular code design for scalability and readability
 
-Tech Stack: Python, SQLite, SQL, Relational Database Design
+**Tech Stack:** Python, SQLite, SQL, Relational Database Design
 
-How to Run:
-
-Clone the repository
-Run ShelfTrack.py in Python3
+## How to Run
+**Clone the repository**
+'''bash
+git clone https://github.com/Srivijiyalakshmi/ShelfTrack.git
 Ensure SQLite database is in the same folder
