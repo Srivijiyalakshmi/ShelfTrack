@@ -17,6 +17,10 @@
 - **Other Skills:** SQL Queries, Secure Coding Practices, Exception Handling
 
 ## How to Run
-**Clone the repository**
+- Clone the repository:
 git clone https://github.com/Srivijiyalakshmi/ShelfTrack.git
-- Ensure SQLite database is in the same folder
+- Navigate to the project folder:
+cd ShelfTrack
+- Ensure the SQLite database file is in the same folder as ShelfTrack.py
+- Run the application:
+python shelfTrack.py
